@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+## Search App using react
 
 The application is meant to search different sources of information and present them in simple way
 
