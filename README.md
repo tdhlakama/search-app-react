@@ -1,9 +1,7 @@
 
 ## Search App using react
 
-The application is meant to search different sources of information and present them in simple way
-
-Focusing on Health Facilities and Product Search
+The application is meant to search for products on the one all market 
 
 Application is meant to build on the fundamentals of react 
 
